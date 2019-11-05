@@ -13,7 +13,7 @@
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
     "geckodriver": "^1.12.2",
-    "mongoose": "^5.2.12",
+    "mongoose": "^5.7.5",
     "selenium-webdriver": "^4.0.0-alpha.1",
     "x-ray": "^2.3.3"
   }
